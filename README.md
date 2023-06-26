@@ -1,0 +1,2 @@
+# obsidiannotas
+notas de obsidian
